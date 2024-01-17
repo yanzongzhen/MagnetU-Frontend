@@ -32,4 +32,10 @@ export default {
     'menu.account': 'Account',
     'menu.account.trigger': 'Trigger Error',
     'menu.account.logout': 'Logout',
+    normal_level: 'Normal',
+    vip_level: 'VIP',
+    svip_level: 'SVIP',
+    svip_plus_level: 'SVIP+',
+    lucky_boy_level: 'LuckyBoy',
+    netdisk_api: 'NetdiskApi',
 }

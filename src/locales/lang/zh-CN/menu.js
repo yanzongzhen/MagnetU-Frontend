@@ -32,4 +32,10 @@ export default {
     account: '个人页',
     'account.trigger': '触发报错',
     'account.logout': '退出登录',
+    normal_level: '普通',
+    vip_level: 'VIP',
+    svip_level: 'SVIP',
+    svip_plus_level: 'SVIP+',
+    lucky_boy_level: '幸运锦鲤',
+    netdisk_api: '网盘接口',
 }

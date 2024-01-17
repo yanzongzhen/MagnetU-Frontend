@@ -4,7 +4,7 @@ import list from './list'
 import profile from './profile'
 import result from './result'
 import exception from './exception'
-import admin from './admin'
+// import admin from './admin'
 import system from './system'
 import link from './link'
 import iframe from './iframe'
@@ -17,7 +17,7 @@ export default [
     ...profile,
     ...result,
     ...exception,
-    ...admin,
+    // ...admin,
     ...system,
     ...link,
     ...iframe,
